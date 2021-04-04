@@ -1,10 +1,6 @@
 ### Hola, soy Priyank 👋
 
 In 💙 with Design and Code...
-
--- Currently, speaking React ---
-
-
 Experienced in UX/ UI, Human-Centred Approach, Frontend, and Digital Art, I like to use my skills to create something impressive...
 When I am not designing or developing, I am either working on my art or backpacking!!!
 
