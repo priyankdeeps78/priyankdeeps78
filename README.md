@@ -1,4 +1,4 @@
-### Hola, This is Priyank 👋
+### Hola, soy Priyank 👋
 
 - 🔭 I’m currently working on Color Pallete Generator web app.
 - 🌱 I’m currently learning ReactJS.<!-- - 👯 I’m looking to collaborate on ... -->
