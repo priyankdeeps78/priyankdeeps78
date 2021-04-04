@@ -1,6 +1,6 @@
 ### Hola, soy Priyank 👋
 
-In an endearment with Design and Code...
+In 💙 with Design and Code...
 
 -- Currently, speaking React ---
 
