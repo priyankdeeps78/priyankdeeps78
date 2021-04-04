@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with Color Pallete Generator web app
 - 💬 Ask me about UX UI, Javascript or Digital art.
 - ✍🏻 2021 Goal: Contribute more to open source projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/priyank.io/), [Behance](https://www.behance.net/priyankdeep78)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/priyank.io/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78)
 - 😄 Pronouns: theWanderer
 - ⚡ Fun fact: I Write, Draw and Travell!!
 
