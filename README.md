@@ -1,5 +1,11 @@
 ### Hola, soy Priyank 👋
 
+n an endearment with Design and Code...
+-- Currently, speaking React ---
+
+Experienced in UX/ UI, Human-Centred Approach, Frontend, 3D, and Digital Art, I like to use my skills to create something impressive...
+When I am not designing or developing, I am either working on my art or backpacking!!!
+
 - 🔭 I’m currently working on Color Pallete Generator web app.
 - 🌱 I’m currently learning ReactJS.<!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Color Pallete Generator web app
