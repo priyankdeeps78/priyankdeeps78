@@ -11,7 +11,7 @@ When I am not designing or developing, I am either working on my art or backpack
 - ✍🏻 2021 Goal: Contribute more to open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/priyank.io/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78)
 - 😄 Pronouns: theWanderer
-- ⚡ Fun fact: I Write, Draw and Travell!!
+- ⚡ Fun fact: I Write, Sketch, Paint and Travell!!
 
 <img src = "https://github-readme-stats.vercel.app/api?username=theWanderer78&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=242526 " >
 
