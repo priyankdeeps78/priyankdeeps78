@@ -8,7 +8,7 @@ When I am not designing or developing, I am either working on my art or backpack
 - 🔭 I’m currently working on Color Pallete Generator web app.
 - 🌱 I’m currently learning ReactNative, Typescript<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with Color Pallete Generator web app-->
 - 💬 Ask me about UX UI, Javascript, ReactJS, or Digital art.
-- ✍🏻 2021 Goal: Contribute more to open source projects.
+- ✍🏻 2022 Goal: Contribute more to open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/priyank.io/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78)
 - 😄 Pronouns: theWanderer
 - ⚡ Fun fact: I Write, Sketch, Paint and Travell!!
