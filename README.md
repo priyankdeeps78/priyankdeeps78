@@ -2,7 +2,9 @@
 
 In 💙 with Design and Code...
 
-Experienced in Frontend Dev, UX/ UI, Human-Centred Approach and Digital Art, I like to use my skills to create something impressive...
+Just a guy with a keen eye for design and a passion for technology, I bring a unique blend of skills and creativity to the table. 
+Always looking for new and exciting ways to improve my craft. Additionally, my storytelling abilities and artistic talent bring a special touch to every project I work on 🫡
+
 When I am not designing or developing, I am either working on my art or backpacking!!!
 
 - 🔭 I’m currently working on Color Pallete Generator web app.
