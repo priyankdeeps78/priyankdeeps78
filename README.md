@@ -8,7 +8,7 @@ Always looking for new and exciting ways to improve my craft. Additionally, my s
 When I am not designing or developing, I am either working on my art or backpacking!!!
 
 - 🔭 I’m currently working on Color Pallete Generator web app.
-- 🌱 I’m currently learning ReactNative, Typescript<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with Color Pallete Generator web app-->
+- 🌱 Getting hands dirty on Nextjs, VueJS, Typescript t<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with Color Pallete Generator web app-->
 - 💬 Ask me about UX UI, Javascript, ReactJS, or Digital art.
 - ✍🏻 2024 Goal: Contribute more to open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/the_wanderer_artist/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78)
