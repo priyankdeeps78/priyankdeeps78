@@ -7,13 +7,13 @@ Always looking for new and exciting ways to improve my craft. Additionally, my s
 
 When I am not designing or developing, I am either working on my art or backpacking!!!
 
-- 🔭 I’m currently working on Color Pallete Generator web app.
-- 🌱 Getting hands dirty on Nextjs, VueJS, Typescript t<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with Color Pallete Generator web app-->
-- 💬 Ask me about UX UI, Javascript, ReactJS, or Digital art.
+- 🔭 I’m currently working on Color Pallete Generator Web App.
+- 🌱 Getting hands dirty on Nextjs, Electron, Typescript <!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with Color Pallete Generator web app-->
+- 💬 Ask me about Javascript, ReactJS, UX UI, or Arts (My art channel: [Instagram](https://www.instagram.com/canvas_by_priyank/)).
 - ✍🏻 2024 Goal: Contribute more to open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/the_wanderer_artist/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78)
 - 😄 Pronouns: theWanderer
-- ⚡ Fun fact: I Write, Sketch, Paint and Travell!!
+- ⚡ Fun fact: I Develop. Write, Sketch, Paint and Travell!!
 
 <img src = "https://github-readme-stats.vercel.app/api?username=theWanderer78&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=242526 " >
 
