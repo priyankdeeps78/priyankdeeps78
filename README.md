@@ -8,13 +8,21 @@ Always looking for new and exciting ways to improve my craft. Additionally, my s
 When I am not designing or developing, I am either working on my art or backpacking!!!
 
 - 🔭 I’m currently working on [Colorbrew App](https://www.colorbrew.art/).
-- 🌱 Getting hands dirty on Nextjs, Electron, Typescript <!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with [Color Pallete Generator App](https://colorbuddy.vercel.app/)-->
+- 🌱 Getting hands dirty on Nextjs, Electron, Typescript 
+<!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with [Color Pallete Generator App](https://colorbuddy.vercel.app/)-->
 - 💬 Ask me about Javascript, ReactJS, UX UI, or Arts (My art channel: [Instagram](https://www.instagram.com/canvas_by_priyank/)).
 - ✍🏻 2024 Goal: Contribute more to open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/the_wanderer_artist/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78)
 - 😄 Pronouns: theWanderer
 - ⚡ Fun fact: I Develop, Write, Sketch, Paint and Travell!!
 
-<img src = "https://github-readme-stats.vercel.app/api?username=theWanderer78&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=242526 " >
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtheWanderer78&count_bg=%23393939&title_bg=%233402BA&icon=gimp.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![GitHub Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=theWanderer78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theWanderer78&layout=compact&theme=dark&hide_border=true)
+
+### Total Contributions and Code Pushed
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=theWanderer78&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
