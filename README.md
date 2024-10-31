@@ -22,7 +22,7 @@ When I am not designing or developing, I am either working on my art or backpack
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theWanderer78&layout=compact&theme=dark&hide_border=true)
 
-### Total Contributions and Code Pushed
+<!--### Total Contributions and Code Pushed
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=theWanderer78&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=theWanderer78&count_private=true&show_icons=true&theme=dark&include_all_commits=true)-->
 
