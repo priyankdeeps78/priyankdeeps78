@@ -24,5 +24,5 @@ When I am not designing or developing, I am either working on my art or backpack
 
 <!--### Total Contributions and Code Pushed
 
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=theWanderer78&count_private=true&show_icons=true&theme=dark&include_all_commits=true)-->
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=priyankdeeps78&count_private=true&show_icons=true&theme=dark&include_all_commits=true)-->
 
