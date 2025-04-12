@@ -18,9 +18,9 @@ When I am not designing or developing, I am either working on my art or backpack
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtheWanderer78&count_bg=%23393939&title_bg=%233402BA&icon=gimp.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![GitHub Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=theWanderer78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Commit Count](https://github-readme-streak-stats.herokuapp.com/?user=priyankdeeps78&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theWanderer78&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankdeeps78&layout=compact&theme=dark&hide_border=true)
 
 <!--### Total Contributions and Code Pushed
 
