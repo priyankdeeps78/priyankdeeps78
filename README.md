@@ -14,7 +14,7 @@ When I am not designing or developing, I am either working on my art or backpack
 - ✍🏻 2024 Goal: Contribute more to open source projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/the_wanderer_artist/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78)
 - 😄 Pronouns: theWanderer
-- ⚡ Fun fact: I Develop, Write, Sketch, Paint and Travell!!
+- ⚡ Fun fact: I Develop, Write, Sketch, Paint and Travell!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtheWanderer78&count_bg=%23393939&title_bg=%233402BA&icon=gimp.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
