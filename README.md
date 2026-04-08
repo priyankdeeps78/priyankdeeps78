@@ -11,7 +11,7 @@ When I am not designing or developing, I am either working on my art or backpack
 - 🌱 Getting hands dirty on Nextjs, Typescript 
 <!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with [Color Pallete Generator App](https://colorbuddy.vercel.app/)-->
 - 💬 Ask me about Javascript, ReactJS, UX UI, or Arts (My art channel: [Instagram](https://www.instagram.com/canvas_by_pk/)).
-- ✍🏻 2025 Goal: Contribute more to open source projects.
+- ✍🏻 2026 Goal: Build more projects and Contribute to open source.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyankdeep78/),  [Instagram](https://www.instagram.com/the_wanderer_artist/), [Behance](https://www.behance.net/priyankdeep78), [Twitter](https://twitter.com/priyankdeep78), [Art Store](https://canvasbypk.com/)
 - 😄 Pronouns: theWanderer
 - ⚡ Fun fact: I Develop, Write, Sketch, Paint and Travell!
