@@ -8,7 +8,7 @@ Always looking for new and exciting ways to improve my craft. Additionally, my s
 When I am not designing or developing, I am either working on my art or backpacking!!!
 
 - 🔭 I’m currently working on [Colorbrew App](https://www.colorbrew.co/).
-- 🌱 Getting hands dirty on Nextjs, Typescript 
+<!-- - 🌱 Getting hands dirty on Nextjs, Typescript  -->
 <!-- - 👯 I’m looking to collaborate on ... - 🤔 I’m looking for help with [Color Pallete Generator App](https://colorbuddy.vercel.app/)-->
 - 💬 Ask me about Javascript, Nextjs, ReactJS, UX UI, Projects, Performance or Arts (My art channel: [Instagram](https://www.instagram.com/canvas_by_pk/)).
 - ✍🏻 2026 Goal: Build more projects and Contribute to open source.
